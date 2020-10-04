@@ -222,16 +222,16 @@ transform: scale(0.9);
   color: #000;
   font-weight: 700;
   padding-bottom: 15px;
-  animation-duration:  1s;
-  animation-delay: 2.5s;
+  animation-duration:  2s;
+  animation-delay: 3s;
 }
 .inner-text p{
   font-size: 15px;
   line-height: 25px;
   color: #9ca6aa;
   font-weight: 400;
-  animation-duration:  1s;
-  animation-delay: 2.5s;
+  animation-duration:  2s;
+  animation-delay: 3s;
 }
 .student{
 width: 100%;
